@@ -27,7 +27,17 @@ The primary objective of the details dashboard is to provide a comprehensive and
 
 7. Average Debt-to-incone Ratio (DTI) :
 
-    >> Evaluating the average DTI for our borrowers helps us guage their finanical health we need to commute the average DTI for all loans,MTD,and track Month-over-Month(Mom) fluctuation
+    >> Evaluating the average DTI for our borrowers helps us guage their finanical health we need to commute the average DTI for all loans,MTD,and track Month-over-Month(Mom) fluctuation.
+
+# Visualization & Insights (Tableau):
+ >> Interactive Dashboards to display key financial metrics.
+ >> Line charts & trend graphs for MoM and MTD comparisons.
+ >> Heatmaps & bar charts for regional and segment-based insights.
+
+
+
+
+
 
 
 
