@@ -1,5 +1,10 @@
 # Bank-Loan-data-analysis-using-Tableau-and-SQL
 
+# Summary of the project:
+
+The primary objective of the details dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio,borrower profiles, and loan performance.
+
+
 **Problem Statement**
 
 *KPI Requirement*
@@ -23,3 +28,6 @@
 7. Average Debt-to-incone Ratio (DTI) :
 
     >> Evaluating the average DTI for our borrowers helps us guage their finanical health we need to commute the average DTI for all loans,MTD,and track Month-over-Month(Mom) fluctuation
+
+
+
